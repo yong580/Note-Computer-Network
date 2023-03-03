@@ -1,2 +1,1 @@
-# Note-Computer-Networking
-Computer-Networking
+# Note-Computer-Network
